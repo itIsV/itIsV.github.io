@@ -1,0 +1,20 @@
+.padrão,.p{font-family:'Inconsolata',monospace;
+    font-weight:400;}
+    .p{text-align: center;
+    font-size:x-large;
+    font-weight: 600;
+    color: #036b52 ;
+    background-color: #27a789;
+    }
+    #v{
+    color: #036b52;
+    }
+    .indicelink{
+        letter-spacing: 02px;
+        line-height: ;
+        background-color: #27a789 ;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    body{
+        margin: 0px
+        ;}
