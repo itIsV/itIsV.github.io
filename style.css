@@ -52,7 +52,31 @@
     li:hover{
         color: white;
     }
+    .linksUteis{
+    background-color: #099272  ;
+    }
+
+    .icons{
+        width: 150px;
+    }
     
+    #linkedin{
+        position: absolute;
+        left: 30%;
+        background-color: white;
+        border-radius: 100%;
+        top: 1250px;
+    }
+
+    #github{
+        position: absolute;
+        left: 50%;
+        background-color: white;
+        border-radius: 100%;
+        border: 5px solid #099272 ;
+        top: 1250px;
+    }
+
     body{
         margin: 0px
         ;}
