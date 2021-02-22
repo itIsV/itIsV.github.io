@@ -1,7 +1,13 @@
 
 .eu{
     max-width: 40%;
-    display: inline-block;
+    display: inline;
+}
+#eu{
+    padding: 2px;
+    background-color: #036b52;
+    ;
+    margin: 50px;
 }
 
 #nome{
@@ -14,10 +20,13 @@
 }
 
 .quemsoueu{
+    left: 515px;
+    bottom: -60px;
+    position: absolute;
+    display: inline-block;
     margin: 0px;
     border: 0px;
     padding: -10px;
-    background-color: #208870;
 }
 
 
