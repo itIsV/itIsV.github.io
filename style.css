@@ -29,6 +29,16 @@
     padding: -10px;
 }
 
+.indicelink{
+    letter-spacing: 02px;
+    background-color: #27a789 ;
+    
+}
+
+.p:hover{
+    background-color: white;
+    color: #27a789;
+}
 
 .padrão,.p{font-family:'Inconsolata',monospace;
     font-weight:400;}
@@ -38,11 +48,7 @@
     color: #036b52 ;
     background-color: #27a789;
     }
-    .indicelink{
-        letter-spacing: 02px;
-        background-color: #27a789 ;
-        
-    }
+    
     body{
         margin: 0px
         ;}
