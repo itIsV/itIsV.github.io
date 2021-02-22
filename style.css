@@ -48,6 +48,10 @@
     color: #036b52 ;
     background-color: #27a789;
     }
+
+    li:hover{
+        color: white;
+    }
     
     body{
         margin: 0px
